@@ -16,7 +16,7 @@
 
 ## Conteúdo desenvolvido:
 
-- Parte 2 Tema projeto: Biblioteca - Not Ready (Refactoring Required): [Estrutura do projeto: Vetor de registros](https://github.com/jmmarao/library-dinamic-memory-allocation/blob/master/Tema8_Biblioteca_JoaoDomingues.cpp)
+- Parte 2 Tema projeto: Biblioteca - Not Ready (Refactoring Required): [Estrutura do projeto: Vetor de registros (alocação dinâmica) e manipulação de arquivos](https://github.com/jmmarao/library-dinamic-memory-allocation/blob/master/Tema8_Biblioteca_JoaoDomingues.cpp)
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
